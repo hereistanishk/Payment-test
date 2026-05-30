@@ -1,0 +1,6 @@
+{
+  "name": "QuickCart",
+  "description": "A simple shopping application with integrated Stripe payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
